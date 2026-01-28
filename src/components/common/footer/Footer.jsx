@@ -96,7 +96,7 @@ const Footer = () => {
             <span className="h-5 w-px bg-white/30 mx-1" />
 
             <a
-              href="mailto:yourname@gmail.com"
+              href="mailto:yudistiradarma08@gmail.com"
               className="flex items-center gap-2 text-sm hover:text-white transition"
             >
               <FaEnvelope />
