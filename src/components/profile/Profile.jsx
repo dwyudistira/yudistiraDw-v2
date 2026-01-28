@@ -1,4 +1,4 @@
-import person from "../../assets/images/Yudistira.png";
+import person from "../../assets/images/yudistira.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import SocialMedia from "../common/socialMedia/SocialMedia";
