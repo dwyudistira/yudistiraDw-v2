@@ -14,6 +14,9 @@ import card10 from "../../assets/images/portfolio-images/8 - Project Portofolio.
 import card11 from "../../assets/images/portfolio-images/API.jpg";
 import card12 from "../../assets/images/portfolio-images/6 - Project Kelas Industri.jpg";
 import card13 from "../../assets/images/portfolio-images/API.jpg";
+import card14 from "../../assets/images/portfolio-images/Project-Landing-Bandung.jpeg";
+import card15 from "../../assets/images/portfolio-images/Project-Landing-Bogor.jpeg";
+import card16 from "../../assets/images/portfolio-images/Project-Landing-Dicoding.jpeg";
 
 const projectData = [
   {
@@ -33,7 +36,7 @@ const projectData = [
     category: "Fullstack Devloper",
     title: "CRUD Simple: Book Manajement",
     tech: "CodeIgniter 4 | Mysql",
-    status: "on-going",
+    status: "public",
     description:
       "Developed a simple CRUD-based Book Management system using CodeIgniter 4 and MySQL, handling both frontend and backend as a Fullstack Developer.",
     link: "https://github.com/dwyudistira/apps_CI4",
@@ -52,7 +55,7 @@ const projectData = [
   {
     id: 4,
     image: card4,
-    category: "Backend Developer",
+    category: "Fulstack Developer",
     title: "Project Kasir Apps",
     tech: "PHP | Laravel 12 | Mysql",
     status: "public",
@@ -150,7 +153,7 @@ const projectData = [
     link: "https://github.com/dwyudistira/Industry_Class_Vue.git",
   },
   {
-    id: 12,
+    id: 13,
     image: card13,
     category: "Backend Developer",
     title: "Project Flood Monitoring",
@@ -159,6 +162,39 @@ const projectData = [
     description:
       "Worked as a Backend Developer on a Flood Monitoring system using Python, FastAPI, and PostgreSQL to manage and process environmental data efficiently.",
     link: "#!",
+  },
+  {
+    id: 14,
+    image: card15,
+    category: "Frontend Developer",
+    title: "Landing Page Kota Bogor",
+    tech: "HTML | CSS",
+    status: "public",
+    description:
+      "This project is designed as a learning platform to enhance and deepen knowledge of web development, with a particular focus on Frontend Development.",
+    link: "https://landing-page-kota-bogor.netlify.app/",
+  },
+  {
+    id: 15,
+    image: card14,
+    category: "Frontend Developer",
+    title: "Landing Page Bandung",
+    tech: "HTML | CSS",
+    status: "public",
+    description:
+      "This project is designed as a learning platform to enhance and deepen knowledge of web development, with a particular focus on Frontend Development.",
+    link: "https://landing-page-bandung.netlify.app/",
+  },
+  {
+    id: 16,
+    image: card16,
+    category: "Frontend Developer",
+    title: "Landing Page Dicoding",
+    tech: "HTML | CSS",
+    status: "public",
+    description:
+      "This project is designed as a learning platform to enhance and deepen knowledge of web development, with a particular focus on Frontend Development.",
+    link: "https://latihan-landing-page.netlify.app/",
   },
 ];
 
